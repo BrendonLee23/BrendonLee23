@@ -1,5 +1,5 @@
 
-  <summary><strong>Desenvolvedor Full Stack Web motivado por criar soluções incríveis para desafios tecnológicos. Com habilidades sólidas em desenvolvimento frontend e backend, estou comprometido em construir aplicações web de alto desempenho, seguras e intuitivas. Sempre em busca de aprender e colaborar com a comunidade de desenvolvedores. Vamos trabalhar juntos para tornar a web um lugar melhor!</strong></summary>
+  <summary><strong>Desenvolvedor Full Stack Web empenhado a criar soluções incríveis para desafios tecnológicos. Com formação em desenvolvimento frontend e backend, estou comprometido em construir aplicações web de ótimo desempenho, seguras e intuitivas. Sempre em busca de aprender e colaborar com a comunidade de desenvolvedores. Vamos trabalhar juntos para tornar nossos web sonhos em realizade!</strong></summary>
 </details>
 
 
