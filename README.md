@@ -33,6 +33,9 @@ Essas são algumas das tecnologias e ferramentas que eu trabalho:
 ## Outras Ferramentas
  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## 🌐 Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brendo-moreira-dev/) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BrendonLee23&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)
