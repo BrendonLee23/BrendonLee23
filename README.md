@@ -1,9 +1,10 @@
-### Olá, mundo! 👻
-## Me chamo Brendo Moreira e sou Desenvolvedor Full-stack. 💻
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=005792&height=90&section=header"/>
+
+<h1 align="center"> Hello World, I'm Brendo 👋</h1>
 
 <details>
   <summary>
-    <strong>Trabalho e desenvolvo empenhado a criar soluções incríveis para desafios tecnológicos. Com formação em desenvolvimento frontend e backend, estou comprometido em construir aplicações web de ótimo desempenho, seguras e intuitivas. Sempre em busca de aprender e colaborar com a comunidade de desenvolvedores. Vamos trabalhar juntos para tornar nossos web sonhos em realidade!</strong>
+    <strong>Desenvolvedor Full Stack empenhado a criar soluções incríveis para desafios tecnológicos. Com formação em desenvolvimento frontend e backend, estou comprometido em construir aplicações web de ótimo desempenho, seguras e intuitivas. Sempre em busca de aprender e colaborar com a comunidade de desenvolvedores. Vamos trabalhar juntos para tornar nossos web sonhos em realidade!</strong>
   </summary>
 </details>
 
