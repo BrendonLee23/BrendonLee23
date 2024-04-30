@@ -1,5 +1,5 @@
 ### Olá, mundo! 👻
-# Me chamo Brendo Moreira e sou Desenvolvedor Full-stack. 💻
+## Me chamo Brendo Moreira e sou Desenvolvedor Full-stack. 💻
 
 <details>
   <summary>
