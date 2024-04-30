@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=90&section=header"/>
-
-<h1 align="center"> Hello World, I'm Brendo 👋</h1>
+<h1 align="center"> Hello World, I'm Brendo 👻</h1>
 
 <details>
   <summary>
