@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=005792&height=90&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a32e74&height=90&section=header"/>
 
 <h1 align="center"> Hello World, I'm Brendo 👋</h1>
 
@@ -11,7 +11,7 @@
 
 
 
-# 💻 Tech Stack
+# 💻 Tech Stacks
 
 Essas são algumas das tecnologias e ferramentas que eu trabalho:
 
