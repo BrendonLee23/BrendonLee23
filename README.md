@@ -27,7 +27,7 @@ Essas são algumas das tecnologias e ferramentas que eu trabalho:
 
 ## Tecnologias Frontend
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-FFA500?style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM-FFA500?style=for-the-badge) ![Axios](https://img.shields.io/badge/Axios-1389FD?style=for-the-badge&logo=axios&logoColor=white)
 
 
 
