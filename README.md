@@ -22,6 +22,8 @@ Essas são algumas das tecnologias e ferramentas que eu trabalho:
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![SuperTest](https://img.shields.io/badge/SuperTest-000000?style=for-the-badge)
 ![Faker](https://img.shields.io/badge/Faker-3498DB?style=for-the-badge&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 
 
 
