@@ -1,4 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=90&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=8A3FFC&random=false&width=435&lines=Hello+World%2C+my+name+is+Brendo!+%F0%9F%91%BB%3AD;Ol%C3%A1+mundo%2C+meu+nome+%C3%A9+Brendo!+%F0%9F%91%BB%3AD)](https://git.io/typing-svg)
 
 <details>
@@ -6,6 +7,7 @@
     <strong>Desenvolvedor Full Stack empenhado a criar soluções incríveis para desafios tecnológicos. Com formação em desenvolvimento frontend e backend, estou comprometido em construir aplicações web de ótimo desempenho, seguras e intuitivas. Sempre em busca de aprender e colaborar com a comunidade de desenvolvedores. Vamos trabalhar juntos para tornar nossos web sonhos em realidade!</strong>
   </summary>
 </details>
+
 
 
 
