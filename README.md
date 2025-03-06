@@ -60,7 +60,7 @@ Essas são algumas das tecnologias e ferramentas que eu trabalho:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BrendonLee23&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=BrendonLee23&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrendonLee23&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonLee23&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
