@@ -12,35 +12,32 @@
 
 ## 💻 &nbsp;Stacks
 
-### &bull; Linguagens, Frameworks & Ferramentas
-
 <p align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" width="52"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="60"/>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,jest" width="52"/>
-  <img src="https://img.shields.io/badge/SuperTest-000000?style=flat&logo=supertest&logoColor=white" width="52"/>
-  <img src="https://img.shields.io/badge/Faker-3498DB?style=flat&logoColor=white" width="52"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,jest" height="60"/>
+  <img src="https://img.shields.io/badge/SuperTest-000000?style=flat&logo=supertest&logoColor=white" height="60"/>
+  <img src="https://img.shields.io/badge/Faker-3498DB?style=flat&logoColor=white" height="60"/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,styledcomponents" width="52"/>
-  <img src="https://img.shields.io/badge/CRM-FFA500?style=flat" width="52"/>
-  <img src="https://skillicons.dev/icons?i=axios" width="52"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,styledcomponents" height="60"/>
+  <img src="https://img.shields.io/badge/CRM-FFA500?style=flat" height="60"/>
+  <img src="https://skillicons.dev/icons?i=axios" height="60"/>
   <!-- Banco de Dados -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" width="52"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="60"/>
   <!-- Ferramentas DevOps/SO -->
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,redis" width="52"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?style=flat&logo=windows-terminal&logoColor=white" width="52"/>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white" width="52"/>
-  <img src="https://img.shields.io/badge/Linux%20Server-FCC624?style=flat&logo=linux&logoColor=black" width="52"/>
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,redis" height="60"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?style=flat&logo=windows-terminal&logoColor=white" height="60"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white" height="60"/>
+  <img src="https://img.shields.io/badge/Linux%20Server-FCC624?style=flat&logo=linux&logoColor=black" height="60"/>
   <!-- Design -->
-  <img src="https://skillicons.dev/icons?i=figma,canva" width="52"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=adobe-xd&logoColor=FF61F6" width="52"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" width="52"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF?style=flat&logo=adobe-photoshop&logoColor=white" width="52"/>
+  <img src="https://skillicons.dev/icons?i=figma,canva" height="60"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=adobe-xd&logoColor=FF61F6" height="60"/>
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" height="60"/>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF?style=flat&logo=adobe-photoshop&logoColor=white" height="60"/>
   <!-- Organização -->
-  <img src="https://skillicons.dev/icons?i=notion,trello" width="52"/>
+  <img src="https://skillicons.dev/icons?i=notion,trello" height="60"/>
 </p>
-
 ---
 
 ## 🌐 &nbsp;Social
