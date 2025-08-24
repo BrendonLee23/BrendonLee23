@@ -60,7 +60,7 @@
 ## ✨ &nbsp;Portfólio
 
 <p align="center">
-  <a href="https://seu-portifolio-link.com" target="_blank">
+  <a href="[https://seu-portifolio-link.com](https://brendo-dev-portfolio.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-Visite%20aqui-%23F7AB0A?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
   </a>
 </p>
