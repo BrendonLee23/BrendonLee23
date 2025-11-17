@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=8A3FFC&random=false&width=435&lines=Hello+World%2C+my+name+is+Brendo!+%F0%9F%91%BB;Ol%C3%A1+mundo%2C+meu+nome+%C3%A9+Brendo!+%F0%9F%91%BB)](https://git.io/typing-svg)
 
+
+##  Link Deploy: https://desafio-tecnico-loomi-5v8cvompq-brendonlee23s-projects.vercel.app/
+
+User: admin@loomi.com
+Senha: 123456
+
+
 <details>
   <summary>
     <strong>Desenvolvedor Full Stack empenhado a criar soluções incríveis para desafios tecnológicos. Com formação em desenvolvimento frontend e backend, estou comprometido em construir aplicações web de ótimo desempenho, seguras e intuitivas. Sempre em busca de aprender e colaborar com a comunidade de desenvolvedores. Vamos trabalhar juntos para tornar nossos web sonhos em realidade!</strong>
