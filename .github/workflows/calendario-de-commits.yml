@@ -1,0 +1,52 @@
+name: Calendário de commits
+
+# Regenera `assets/commits.svg` todo dia. O README aponta para o arquivo no
+# próprio repositório, então nada aqui depende de um serviço de terceiro ficar
+# de pé — se a API de contribuições cair, esta execução falha e o SVG anterior
+# continua no ar.
+
+on:
+  schedule:
+    # 06:20 UTC = 03:20 em Brasília, depois de o dia já ter fechado lá.
+    - cron: '20 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/gerar-calendario.mjs'
+      - '.github/workflows/calendario-de-commits.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calendario-de-commits
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Gerar o SVG
+        run: node scripts/gerar-calendario.mjs
+
+      # Sem mudança não há commit: o cron roda todo dia e um commit vazio por
+      # dia poluiria o próprio gráfico que este arquivo desenha.
+      - name: Commitar se mudou
+        run: |
+          if [ -z "$(git status --porcelain assets/commits.svg)" ]; then
+            echo 'Nada mudou no calendário.'
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/commits.svg
+          git commit -m 'chore: atualiza o calendário de commits'
+          git push
