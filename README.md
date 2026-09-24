@@ -25,10 +25,10 @@ Hoje trabalho com sistemas de gestão tributária, onde regra de negócio comple
 ### Atividade
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BrendonLee23&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8A3FFC&icon_color=8A3FFC&text_color=8b949e" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonLee23&layout=compact&hide_border=true&bg_color=00000000&title_color=8A3FFC&text_color=8b949e" height="165"/>
+  <img alt="Resumo do GitHub de Brendo Moreira" height="175" src="https://awesome-github-stats.azurewebsites.net/user-stats/BrendonLee23?cardType=github&theme=midnight-purple&preferLogin=false&Border=00000000&background=00000000"/>
+  <img alt="Sequência de contribuições" height="175" src="https://streak-stats.demolab.com/?user=BrendonLee23&hide_border=true&background=00000000&ring=8A3FFC&fire=8A3FFC&currStreakNum=8A3FFC&currStreakLabel=8A3FFC&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&stroke=30363d"/>
 </p>
 
-<img src="https://streak-stats.demolab.com/?user=BrendonLee23&hide_border=true&background=00000000&ring=8A3FFC&fire=8A3FFC&currStreakNum=8A3FFC&currStreakLabel=8A3FFC&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&stroke=30363d" height="165"/>
+<img alt="Commits dos últimos 12 meses" width="100%" src="https://ghchart.rshah.org/8A3FFC/BrendonLee23"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A3FFC,100:240046&height=80&section=footer"/>
